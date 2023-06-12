@@ -13,7 +13,7 @@ Marketing campaigns are more effective the more targeted they are to potential c
 In this project we are going to use real data from Arvato Financial Solutions GmbH, to find potential customers for a mail order company.  
 This project consists of two phases.  
 In the first phase, we aim to create a customer segmentation using unsupervised learning.  
-In the second phase, our goal is to predict the response to the mail-order campaign using unsupervised learning.
+In the second phase, our goal is to predict the response to the mail-order campaign using supervised learning.
 
 ## Dataset <a name="dataset"></a>
 In this project we are going to use real data from *Arvato Financial Solutions GmbH*, to find potential customers for a mail order company.
